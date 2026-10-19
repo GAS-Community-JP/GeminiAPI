@@ -10,7 +10,7 @@ function listAvailableModels() {
  * Gemini API 呼び出し：2026年最新モデル対応版
  */
 function callGeminiAPI(promptText) {
-  const API_KEY = 'AIzaSyDVEHeNlr9S8bWLSrMZyB0UgziS_ZBvm4I'; 
+  const API_KEY = '************************************'; 
   
   // リストにあった最新のエイリアスを使用します
   const model = "gemini-flash-latest"; 
